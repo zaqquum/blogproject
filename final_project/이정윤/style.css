@@ -1,0 +1,40 @@
+#ex1 {
+  font-weight: bold;
+  font-size: 50px;
+  text-align: center;
+  border: 1px solid gray;
+  margin: 0;
+  padding-top: 10px;
+}
+
+#ex2 {
+  text-align: left;
+  font-size: 30px;
+  margin: 0;
+  padding-left: 37px;
+}
+#ex3 {
+  text-align: center;
+  font-size: 30px;
+}
+
+#ex4 {
+  text-align: right;
+  font-size: 30px;
+  padding-right: 35px;
+}
+
+#ex5 {
+    text-align: center;
+}
+
+
+#ex6 {
+  text-align: left;
+  padding-left: 50px;
+}
+
+#ex7 {
+  text-align: right;
+  padding-right: 75px;
+}
